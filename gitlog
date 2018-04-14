@@ -1,0 +1,4 @@
+git log > "gitlog.txt"
+
+grep "Date"  gitlog.txt
+
