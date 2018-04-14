@@ -1,30 +1,19 @@
-# This is a large heading
+# BIG HEADING
 
-## This is a smaller heading
+### swsparks
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+git and markdown test file.
 
-- This is
-- an unordered
-- list
+### headings
 
-1. This is
-2. an ordered
-3. list
+markdown heading tests
 
-Here is `some code` in the middle of a sentence.
+### Doggos
 
-```
-This is
-a block
-of code
-```
+Doggos smell like:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+-feet
+-dirt
+-wet dog
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+[website](www.swsparks.com)
